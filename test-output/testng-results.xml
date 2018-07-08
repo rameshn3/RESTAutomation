@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-05-31T02:52:29Z" name="Default suite" finished-at="2018-05-31T02:52:36Z" duration-ms="7105">
+    <groups>
+    </groups>
+    <test started-at="2018-05-31T02:52:29Z" name="Default test" finished-at="2018-05-31T02:52:36Z" duration-ms="7105">
+      <class name="com.http.qa.testcase.PutRestClientTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.http.qa.testcase.PutRestClientTest@5aebe890]" started-at="2018-05-31T02:52:29Z" name="setup" finished-at="2018-05-31T02:52:29Z" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="putTest()[pri:0, instance:com.http.qa.testcase.PutRestClientTest@5aebe890]" started-at="2018-05-31T02:52:29Z" name="putTest" finished-at="2018-05-31T02:52:36Z" duration-ms="7025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putTest -->
+      </class> <!-- com.http.qa.testcase.PutRestClientTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
