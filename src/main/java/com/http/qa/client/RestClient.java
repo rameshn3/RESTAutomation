@@ -16,7 +16,10 @@ import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClientBuilder;
 import org.apache.http.impl.client.HttpClients;
-
+/**
+* Author : Lavanya
+* date modified : June 27 2020
+*/
 public class RestClient {
 
 //1.getAPI
